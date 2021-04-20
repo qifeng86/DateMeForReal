@@ -5,7 +5,7 @@ import IconButton from "@material-ui/core/IconButton";
 import HomeIcon from "@material-ui/icons/Home";
 import { FaMale } from "react-icons/fa";
 import { FaFemale } from "react-icons/fa";
-import { AmplifySignOut } from "@aws-amplify/ui-react";
+
 import { Link } from "react-router-dom";
 
 function Header() {
@@ -38,7 +38,7 @@ function Header() {
         </IconButton>
       </Link>
 
-      <AmplifySignOut />
+
     </div>
   );
 }

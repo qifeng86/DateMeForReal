@@ -12,6 +12,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { animation } from "./animation";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { AmplifySignOut } from "@aws-amplify/ui-react";
 
 function App() {
   useEffect(() => {
@@ -31,6 +32,7 @@ function App() {
           <Route path="/profile">
             <UpdateUser />
             <br />
+            <AmplifySignOut />
           </Route>
           <Route path="/filter">
             <Particles />
