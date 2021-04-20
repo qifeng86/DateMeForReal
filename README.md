@@ -52,10 +52,10 @@ This application is licensed under [MIT](https://github.com/qifeng86/DateMeForRe
 
 # Contributing
 
-Qi Feng
-Jeff Woda
-Alex Gold
-Alexander Marzullo
+Qi Feng,
+Jeff Woda,
+Alex Gold,
+Alexander Marzullo,
 Jalyn Campbell
 
 
