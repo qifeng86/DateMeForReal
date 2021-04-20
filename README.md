@@ -13,7 +13,7 @@ The applicaition is a dating app built with React.
 * [License](#license)
 * [Contributing](#contribute)
 * [Built with](#Builtwith)
-* [Questions](#questions)
+* [Contributors](#Contributors)
 
 # Installation
 
